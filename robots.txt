@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://losnrgy3-57.github.io/content-lib/sitemap.xml
